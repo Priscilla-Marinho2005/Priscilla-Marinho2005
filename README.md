@@ -1,8 +1,8 @@
 # Priscilla Marinho Falcão 👨‍💻
 **`Desenvolvedor Front-End em formação`**
 
-👋 Olá, meu nome É priscilla, tenho 20 anos e sou de Recife - PE.
-Estou cursando **Análise e Dsenvolvimento de Sistemas** na Uninassau.
+👋 Olá, meu nome É Priscilla, tenho 20 anos e sou de Recife - PE.
+Estou cursando **Análise e Desenvolvimento de Sistemas** na Uninassau.
 
 Meu objetivo é me tornar uma **Desenvolvedora FrontEnd**.
 Atualmente o meu foco é em **JavaScript**, **React** e **TypeScript**.
