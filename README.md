@@ -26,7 +26,4 @@ Faço parte da turma FrontEnt com React do Bolsa Futuro Digital, da Softex.
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=priscillamarinho2005@gmail.com&tf=cm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/qr/SI7ZKRHLCJBGM1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </p>
