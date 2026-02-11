@@ -31,10 +31,7 @@ Atualmente o meu foco é em **JavaScript**, **React** e **TypeScript**.
 
 ### 📊 Estatísticas
 
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilla-marinho2005&layout=compact&theme=tokyonight&langs_count=8"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priscilla-marinho2005&theme=tokyonight" />
 </p>
 
