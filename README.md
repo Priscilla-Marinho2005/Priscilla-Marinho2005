@@ -35,3 +35,8 @@ Atualmente o meu foco é em **JavaScript**, **React** e **TypeScript**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priscilla-marinho2005&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priscilla-marinho2005/priscilla-marinho2005/output/github-contribution-grid-snake.svg" />
+</p>
+
+
