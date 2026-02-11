@@ -27,16 +27,14 @@ Atualmente o meu foco é em **JavaScript**, **React** e **TypeScript**.
   </a>
 </p>
 
+---
 
 ### 📊 Estatísticas
 
+
 <p align="center">
   <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilla-marinho2005&layout=compact&theme=tokyonight&langs_count=8"
   />
 </p>
+
