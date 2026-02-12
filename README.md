@@ -36,7 +36,7 @@ Atualmente o meu foco é em **JavaScript**, **React** e **TypeScript**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priscilla-marinho2005/priscilla-marinho2005/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/priscilla-marinho2005/priscilla-marinho2005/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
