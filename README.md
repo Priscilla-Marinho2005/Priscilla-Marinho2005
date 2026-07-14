@@ -19,7 +19,7 @@ Atualmente o meu foco é em **JavaScript**, **React** e **TypeScript**.
 ### 📫 Meus Contatos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priscilla-marinho-falc%C3%A3o/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/priscilla-marinho-falcao/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=priscillamarinho2005@gmail.com&tf=cm" target="_blank" rel="noopener noreferrer">
